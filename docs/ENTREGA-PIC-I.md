@@ -6,7 +6,7 @@
 
 - [x] Código-fonte e recursos necessários para executar o projeto em PHP.
 - [x] README com objetivo, cinco integrantes, tecnologias, instalação, configuração, requisitos, funcionalidades e imagens.
-- [ ] Repositório publicado e link conferido sem autenticação, se público; se privado, acesso do professor confirmado.
+- [x] Repositório publicado e link conferido sem autenticação, se público; se privado, acesso do professor confirmado.
 - [ ] Vídeo gravado demonstrando o projeto e a participação dos cinco integrantes.
 - [ ] Permissão de acesso ao vídeo conferida.
 - [ ] Link do repositório, projeto e vídeo enviados no canal indicado pelo professor até o prazo.
