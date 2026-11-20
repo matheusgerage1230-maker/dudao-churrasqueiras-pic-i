@@ -176,10 +176,4 @@ Para testes, utilize dados fictícios e pare na revisão, sem enviar mensagens a
 
 ## Créditos
 
-O layout, as fotografias e os textos de referência foram fornecidos para o projeto. O endereço, os horários e o depoimento seguem o material recebido, com os contatos e a cidade atualizados conforme as informações fornecidas.
-
 O [Bootstrap](https://getbootstrap.com/) é distribuído sob a [licença MIT](assets/vendor/bootstrap/LICENSE). Google Maps e WhatsApp são serviços externos e dependem de disponibilidade e conexão com a internet.
-
-## Entrega acadêmica — PIC I
-
-O prazo informado para a entrega final é **23 de novembro de 2026**. Consulte o [checklist e roteiro de apresentação](docs/ENTREGA-PIC-I.md). O vídeo deverá ser gravado pelos cinco integrantes, com câmera aberta durante suas respectivas apresentações e explicação da contribuição real de cada um.
