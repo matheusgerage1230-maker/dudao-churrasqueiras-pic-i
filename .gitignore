@@ -1,0 +1,12 @@
+# Configurações locais, credenciais e arquivos gerados
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+sessions/
